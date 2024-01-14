@@ -46,8 +46,8 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/kenneth-church">
-            <img src="https://avatars.githubusercontent.com/u/5369885?v=4" width="80;" alt="kenneth-church"/>
+        <a href="https://github.com/azerioxal">
+            <img src="https://avatars.githubusercontent.com/u/5369885?v=4" width="80;" alt="azerioxal"/>
             <br />
             <sub><b>Kenneth Church</b></sub>
         </a>
@@ -186,7 +186,7 @@
         <a href="https://github.com/k073l">
             <img src="https://avatars.githubusercontent.com/u/21180271?v=4" width="80;" alt="k073l"/>
             <br />
-            <sub><b>k073l</b></sub>
+            <sub><b>K073l</b></sub>
         </a>
     </td>
     <td align="center">
